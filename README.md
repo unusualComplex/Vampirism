@@ -9,7 +9,7 @@ of what I would like to add to the plugin since I am currently burnt out on rune
 * The ability to drink blood from entities such as "Cows, Goblins, NPC's and Players"
 ## Acknowledgements
 
- - [Plugin Wiki](https://github.com/)
+ - [Plugin Wiki](https://github.com/unusualComplex/Vampirism/wiki)
  - [RuneLite Wiki](https://github.com/runelite/runelite/wiki)
 
 ## Badges
